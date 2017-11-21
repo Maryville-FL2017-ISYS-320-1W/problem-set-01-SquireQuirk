@@ -1,16 +1,19 @@
 /*
   	ISYS 320
-  	Name(s):
-  	Date: 
+  	Name(s): Patrick Quirk
+  	Date: 11/20/17
 */
 
 /*
 
 1. Fill out the table for the loop below
 
-| ITERATION 		 | VARIABLE NAME	 | VARIABLE NAME	 | VARIABLE NAME	 |
-| initialization	 |				 |				 |				 | 
-| 1				 |				 |				 |				 |
+| ITERATION 		 | COUNT	 |Product	 | Number |
+| initialization	 |	4		 |			 | 0      | 
+| 1					 |	4	     |7			 |	7	  | 
+| 2					 |	3	     |5			 |	12	  | 
+| 3					 |	2	     |3			 |	15	  | 
+| 4					 |	1	     |1			 |	16	  |
 
 
 */
